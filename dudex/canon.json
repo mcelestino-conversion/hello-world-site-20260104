@@ -1,0 +1,13 @@
+{
+  "canon_version": "1.0",
+  "description": "a simple one-page next.js web app that displays 'hello, world!' centered on the screen. use tailwind css for styling.",
+  "project": {
+    "framework": "nextjs",
+    "language": "typescript",
+    "name": "hello world site 20260104",
+    "type": "web_app"
+  },
+  "styling": {
+    "framework": "tailwind"
+  }
+}
